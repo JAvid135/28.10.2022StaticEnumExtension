@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\bin\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.exe
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\bin\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.deps.json
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\bin\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.runtimeconfig.json
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\bin\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\bin\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.dll
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\bin\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.pdb
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.AssemblyInfo.cs
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.dll
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.pdb
+C:\Users\Admin\Desktop\22.10.2022\25.10.2022Homework2Factorial\25.10.2022Homework2Factorial\obj\Debug\netcoreapp3.1\25.10.2022Homework2Factorial.genruntimeconfig.cache

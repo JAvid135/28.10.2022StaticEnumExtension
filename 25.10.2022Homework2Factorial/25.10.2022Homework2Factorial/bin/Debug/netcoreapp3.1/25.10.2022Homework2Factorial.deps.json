@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "25.10.2022Homework2Factorial/1.0.0": {
+        "runtime": {
+          "25.10.2022Homework2Factorial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "25.10.2022Homework2Factorial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
